@@ -4,12 +4,12 @@
 \alias{suma.dos.numeros}
 \title{Suma los numeros pasados por parametro}
 \usage{
-suma.dos.numeros(x, y)
+suma.dos.numeros(x = 0, y = 0)
 }
 \arguments{
-\item{x}{Primer numero a sumar}
+\item{x}{Primer numero a sumar. Es 0 por defecto}
 
-\item{y}{Segundo numero a sumar}
+\item{y}{Segundo numero a sumar. Es 0 por defecto}
 }
 \value{
 La suma de \code{x} e \code{y}

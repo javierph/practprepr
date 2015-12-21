@@ -4,12 +4,12 @@
 \alias{resta.dos.numeros}
 \title{Resta los numeros pasados por parametro}
 \usage{
-resta.dos.numeros(x, y)
+resta.dos.numeros(x = 0, y = 0)
 }
 \arguments{
-\item{x}{Primer numero a restar}
+\item{x}{Primer numero a restar. Es 0 por defecto}
 
-\item{y}{Segundo numero a restar}
+\item{y}{Segundo numero a restar. Es 0 por defecto}
 }
 \value{
 La resta de \code{x} menos \code{y}
