@@ -1,0 +1,9 @@
+Package: practprepr
+Type: Package
+Title: Practica creacion paquete
+Version: 1.0
+Date: 2015-12-21
+Author: javierph
+#Maintainer: javierph
+Description: Funciones simples para comprobar el funcionamiento del paquete
+License:
